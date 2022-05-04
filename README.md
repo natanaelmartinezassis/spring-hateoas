@@ -2,6 +2,7 @@
 
 Sample project containing REST APIs that follow HATEOAS principles, creating hyperlinks that help clients to consume the
 service without requiring prior knowledge of the API.
+
 ---
 
 # Read Me First

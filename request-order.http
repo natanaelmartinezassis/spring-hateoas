@@ -1,0 +1,7 @@
+GET http://localhost:8080/orders/1
+Accept: application/hal+json
+
+###
+
+GET http://localhost:8080/orders/customer/1
+Accept: application/hal+json

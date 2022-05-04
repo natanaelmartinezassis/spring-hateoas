@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Homer Simpson",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "name": "Marge Simpson",
+    "gender": "female"
+  },
+  {
+    "id": 3,
+    "name": "Bart Simpson",
+    "gender": "male"
+  },
+  {
+    "id": 4,
+    "name": "Lisa Simpson",
+    "gender": "female"
+  },
+  {
+    "id": 5,
+    "name": "Maggie Simpson",
+    "gender": "female"
+  }
+]

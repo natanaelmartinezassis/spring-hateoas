@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "product": "Duff Beer",
+    "quantity": 12,
+    "price": 6.99,
+    "amount": 83.88,
+    "customerId": 1
+  },
+  {
+    "id": 2,
+    "product": "Donuts",
+    "quantity": 6,
+    "price": 4.5,
+    "amount": 27,
+    "customerId": 1
+  },
+  {
+    "id": 3,
+    "product": "Pork Chops",
+    "quantity": 10,
+    "price": 3.9,
+    "amount": 39,
+    "customerId": 2
+  },
+  {
+    "id": 4,
+    "product": "Hot Dogs",
+    "quantity": 3,
+    "price": 9.9,
+    "amount": 29.7,
+    "customerId": 3
+  },
+  {
+    "id": 5,
+    "product": "Pizza",
+    "quantity": 5,
+    "price": 12,
+    "amount": 60,
+    "customerId": 1
+  },
+  {
+    "id": 6,
+    "product": "Vegan Burger",
+    "quantity": 1,
+    "price": 15,
+    "amount": 15,
+    "customerId": 4
+  },
+  {
+    "id": 7,
+    "product": "Milk",
+    "quantity": 10,
+    "price": 5.9,
+    "amount": 59,
+    "customerId": 5
+  }
+]

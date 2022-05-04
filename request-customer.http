@@ -1,0 +1,2 @@
+GET http://localhost:8080/customers/1
+Accept: application/hal+json
